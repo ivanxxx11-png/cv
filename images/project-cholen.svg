@@ -1,0 +1,34 @@
+<svg viewBox="0 0 480 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Minh họa giao diện website Chợ Len - sàn thương mại đồ thủ công đan len">
+  <rect width="480" height="340" rx="10" fill="#f1e9d8"/>
+  <rect x="0" y="0" width="480" height="46" rx="10" fill="#57715a"/>
+  <rect x="0" y="30" width="480" height="16" fill="#57715a"/>
+  <circle cx="26" cy="23" r="7" fill="#f1e9d8"/>
+  <rect x="46" y="17" width="90" height="12" rx="6" fill="#f1e9d8"/>
+  <rect x="360" y="15" width="90" height="16" rx="8" fill="#c9a227"/>
+  <!-- banner -->
+  <rect x="24" y="70" width="432" height="110" rx="8" fill="#e8ddc6"/>
+  <circle cx="90" cy="125" r="34" fill="#b4552e"/>
+  <path d="M70 125 q20 -26 40 0 q-20 26 -40 0" fill="#f1e9d8" opacity="0.5"/>
+  <rect x="150" y="100" width="230" height="14" rx="4" fill="#23291f"/>
+  <rect x="150" y="124" width="170" height="10" rx="4" fill="#2b2b26" opacity="0.6"/>
+  <rect x="150" y="146" width="110" height="18" rx="9" fill="#b4552e"/>
+  <!-- product grid -->
+  <g>
+    <rect x="24" y="198" width="132" height="120" rx="6" fill="#e8ddc6"/>
+    <rect x="36" y="210" width="108" height="70" rx="4" fill="#c9a227" opacity="0.55"/>
+    <rect x="36" y="288" width="88" height="10" rx="4" fill="#23291f"/>
+    <rect x="36" y="302" width="50" height="9" rx="4" fill="#57715a"/>
+  </g>
+  <g>
+    <rect x="174" y="198" width="132" height="120" rx="6" fill="#e8ddc6"/>
+    <rect x="186" y="210" width="108" height="70" rx="4" fill="#57715a" opacity="0.55"/>
+    <rect x="186" y="288" width="88" height="10" rx="4" fill="#23291f"/>
+    <rect x="186" y="302" width="50" height="9" rx="4" fill="#b4552e"/>
+  </g>
+  <g>
+    <rect x="324" y="198" width="132" height="120" rx="6" fill="#e8ddc6"/>
+    <rect x="336" y="210" width="108" height="70" rx="4" fill="#b4552e" opacity="0.45"/>
+    <rect x="336" y="288" width="88" height="10" rx="4" fill="#23291f"/>
+    <rect x="336" y="302" width="50" height="9" rx="4" fill="#57715a"/>
+  </g>
+</svg>

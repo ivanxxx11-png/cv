@@ -1,0 +1,30 @@
+<svg viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Minh họa chân dung cách điệu của Thảo My">
+  <defs>
+    <clipPath id="frame"><rect x="0" y="0" width="360" height="360" rx="8"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="360" height="360" fill="#e8ddc6"/>
+    <circle cx="180" cy="150" r="230" fill="#f1e9d8"/>
+    <!-- vai -->
+    <path d="M60 360 C60 250 120 210 180 210 C240 210 300 250 300 360 Z" fill="#57715a"/>
+    <!-- cổ -->
+    <rect x="155" y="185" width="50" height="45" fill="#e3b98c"/>
+    <!-- đầu -->
+    <ellipse cx="180" cy="140" rx="72" ry="80" fill="#eec9a1"/>
+    <!-- tóc -->
+    <path d="M108 130 C100 60 260 60 252 130 C252 90 220 70 180 70 C140 70 108 90 108 130 Z" fill="#3b2c22"/>
+    <path d="M104 140 C100 175 112 205 118 210 C112 185 112 155 118 140 Z" fill="#3b2c22"/>
+    <path d="M256 140 C260 175 248 205 242 210 C248 185 248 155 242 140 Z" fill="#3b2c22"/>
+    <!-- mắt kính, gợi ý tính cách "làm nghề sáng tạo" -->
+    <circle cx="155" cy="145" r="16" fill="none" stroke="#23291f" stroke-width="4"/>
+    <circle cx="205" cy="145" r="16" fill="none" stroke="#23291f" stroke-width="4"/>
+    <line x1="171" y1="145" x2="189" y2="145" stroke="#23291f" stroke-width="4"/>
+    <!-- miệng cười nhẹ -->
+    <path d="M160 178 Q180 190 200 178" stroke="#b4552e" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <!-- hoa tai chỉ thêu, gợi ý sở thích thủ công -->
+    <circle cx="120" cy="170" r="4" fill="#c9a227"/>
+    <circle cx="240" cy="170" r="4" fill="#c9a227"/>
+    <!-- viền khung trang trí -->
+    <rect x="10" y="10" width="340" height="340" fill="none" stroke="#b4552e" stroke-width="2" rx="6"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg viewBox="0 0 480 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Minh họa giao diện website Gốm Xưa - đặt lịch lớp học làm gốm">
+  <rect width="480" height="340" rx="10" fill="#f1e9d8"/>
+  <rect x="24" y="24" width="432" height="292" rx="8" fill="#e8ddc6"/>
+  <!-- thanh điều hướng -->
+  <rect x="24" y="24" width="432" height="40" rx="8" fill="#b4552e"/>
+  <rect x="44" y="40" width="70" height="10" rx="4" fill="#f1e9d8"/>
+  <rect x="330" y="40" width="30" height="10" rx="4" fill="#f1e9d8" opacity="0.8"/>
+  <rect x="368" y="40" width="30" height="10" rx="4" fill="#f1e9d8" opacity="0.8"/>
+  <rect x="406" y="40" width="30" height="10" rx="4" fill="#f1e9d8" opacity="0.8"/>
+  <!-- bình gốm minh họa -->
+  <path d="M240 90 c-16 0 -18 14 -14 22 c-10 8 -14 24 -14 40 c0 30 12 48 28 48 s28 -18 28 -48 c0 -16 -4 -32 -14 -40 c4 -8 2 -22 -14 -22 z" fill="#57715a"/>
+  <ellipse cx="240" cy="96" rx="10" ry="5" fill="#3f5442"/>
+  <!-- lịch đặt chỗ -->
+  <rect x="60" y="180" width="150" height="110" rx="6" fill="#f1e9d8"/>
+  <rect x="60" y="180" width="150" height="26" rx="6" fill="#57715a"/>
+  <rect x="76" y="220" width="20" height="16" rx="3" fill="#c9a227"/>
+  <rect x="104" y="220" width="20" height="16" rx="3" fill="#e8ddc6"/>
+  <rect x="132" y="220" width="20" height="16" rx="3" fill="#e8ddc6"/>
+  <rect x="160" y="220" width="20" height="16" rx="3" fill="#b4552e"/>
+  <rect x="76" y="244" width="20" height="16" rx="3" fill="#e8ddc6"/>
+  <rect x="104" y="244" width="20" height="16" rx="3" fill="#e8ddc6"/>
+  <rect x="132" y="244" width="20" height="16" rx="3" fill="#e8ddc6"/>
+  <rect x="160" y="244" width="20" height="16" rx="3" fill="#e8ddc6"/>
+  <!-- thẻ thông tin lớp học -->
+  <rect x="280" y="180" width="150" height="110" rx="6" fill="#f1e9d8"/>
+  <rect x="294" y="196" width="122" height="12" rx="4" fill="#23291f"/>
+  <rect x="294" y="216" width="90" height="9" rx="4" fill="#2b2b26" opacity="0.55"/>
+  <rect x="294" y="232" width="100" height="9" rx="4" fill="#2b2b26" opacity="0.55"/>
+  <rect x="294" y="258" width="80" height="18" rx="9" fill="#c9a227"/>
+</svg>
